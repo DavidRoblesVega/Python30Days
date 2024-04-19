@@ -11,6 +11,7 @@ is_married = False
 is_true = True
 is_light = False
 
+
 print(type(firstname))
 print(type(lastname))
 print(type(fullname))

@@ -10,3 +10,4 @@ exponencial = num1 ** num2
 floordivision = num1 // num2
 
 print(suma, resta, multiplicacion, division, resto, exponencial, floordivision)
+

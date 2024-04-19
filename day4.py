@@ -13,6 +13,7 @@ print(len(company))
 print(company.upper())
 print(company.lower())
 
+
 cadena = "Coding For All"
 # Usar el método capitalize() para capitalizar la primera letra de la cadena
 print(cadena.capitalize())

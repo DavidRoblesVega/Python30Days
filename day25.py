@@ -6,6 +6,7 @@ fruits = pd.Series(fruits, index=[1, 2, 3])
 print(fruits)
 
 
+
 dct = {"name": "David", "country": "Spain", "city": "Madrid"}
 s = pd.Series(dct)
 print(s)

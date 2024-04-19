@@ -13,6 +13,7 @@ primer_item = lista2[0]
 medio_item = lista2[len(lista2)//2]
 ultimo_item = lista2[len(lista2)-1]
 
+
 print(primer_item)
 print(medio_item)
 print(ultimo_item)

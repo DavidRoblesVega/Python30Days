@@ -1,5 +1,6 @@
 # EXERCISE 2
 
+
 class CuentaPersona:
     def __init__(self, nombre, apellido):
         self.nombre = nombre

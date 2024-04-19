@@ -13,6 +13,7 @@ h = float(input("Introduce la altura del triángulo "))
 area = 0.5 * b * h
 print("El área de triángulo es: ", area)
 
+
 # Write a script that prompts the user to enter side a, side b, and side c of the triangle. Calculate the perimeter of the triangle (perimeter = a + b + c).
 a = float(input("Enter side a: "))
 b = float(input("Enter side b: "))
